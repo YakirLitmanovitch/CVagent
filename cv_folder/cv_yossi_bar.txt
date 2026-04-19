@@ -1,0 +1,5 @@
+Name: Yossi Bar
+Email: y.bar@cyber-sec.co.il
+Experience: SOC Analyst for 2 years.
+Skills: Python for Automation, Wireshark, Splunk.
+Summary: Skilled in using Python to automate security tasks and log analysis.

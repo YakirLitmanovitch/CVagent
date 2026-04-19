@@ -1,0 +1,5 @@
+Name: Israel Israeli
+Email: israel.i@gmail.com
+Experience: 5 years as a Backend Developer.
+Skills: Python, Django, AWS, SQL.
+Summary: I am an expert in Python development and system architecture.

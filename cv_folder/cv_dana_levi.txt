@@ -1,0 +1,5 @@
+Name: Dana Levi
+Email: dana.l@tech-hr.org
+Education: M.Sc in Computer Science.
+Skills: Machine Learning, Python, Pandas, PyTorch.
+Summary: Passionate about data and using Python for predictive modeling.

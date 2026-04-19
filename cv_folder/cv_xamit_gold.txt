@@ -1,0 +1,4 @@
+Name: Amit Gold
+Email: amit.gold99@gmail.com
+Skills: Python (Beginner), HTML, CSS, JavaScript.
+Summary: Recently finished a bootcamp and looking for a Python junior role.

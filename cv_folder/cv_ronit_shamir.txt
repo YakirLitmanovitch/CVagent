@@ -1,0 +1,5 @@
+Name: Ronit Shamir
+Email: shamir.ronit@example.com
+Role: Product Manager.
+Experience: Led cross-functional teams for 4 years.
+Skills: Jira, Agile, Roadmapping, Market Research.
