@@ -1,4 +1,4 @@
-```markdown
+
 # 🛡️ CVagent: LLM Vulnerability Lab (Indirect Prompt Injection)
 
 ## 📌 Overview
@@ -243,9 +243,6 @@ Do not use these techniques in real systems without proper safeguards.
 
 ---
 
-## 📄 License
-
-MIT License
 
 ```
 ```
